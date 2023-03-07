@@ -1,0 +1,23 @@
+﻿@model int
+
+<div class="row">
+    <fo class="col-md-4">
+        <form asp-action="Ocen">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input name="wid" type="hidden" value="@Model" />
+            <div class="form-group">
+                <label class="control-label">Jak oceniasz wizytę</label>
+                <select name="ocena" class="form-control">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Zapisz" class="btn btn-primary" />
+            </div>
+            </form>
+            </div>
+

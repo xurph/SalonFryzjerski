@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SalonFryzjerski
+build_property.RootNamespace = SalonFryzjerski
+build_property.ProjectDir = C:\Users\miesz\OneDrive\Pulpit\Projekt\SalonFryzjerski\SalonFryzjerski\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\miesz\OneDrive\Pulpit\Projekt\SalonFryzjerski\SalonFryzjerski
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Rodzaje/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Rodzaje/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Rodzaje/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Rodzaje/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Rodzaje/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9kemFqZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/UzytkownikWizyty/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1dpenl0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/UzytkownikWizyty/Ocen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1dpenl0eVxPY2VuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/UzytkownikWizyty/Rezerwacja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXp5dGtvd25pa1dpenl0eVxSZXplcndhY2phLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Wizyty/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l6eXR5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Wizyty/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l6eXR5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Wizyty/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l6eXR5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Wizyty/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l6eXR5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Wizyty/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2l6eXR5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miesz/OneDrive/Pulpit/Projekt/SalonFryzjerski/SalonFryzjerski/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fs4ivhhtoz
